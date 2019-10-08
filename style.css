@@ -1,0 +1,23 @@
+.menuimage {
+  min-height: 43px;
+}
+
+.homepage {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  height: 368px;
+}
+
+.mainbackground {
+  padding-top: 200px;
+}
+
+.footer-bg {
+  background-color: #004030;
+  color: white;
+}
+
+.homepage > p {
+  padding-top: 25px;
+}
